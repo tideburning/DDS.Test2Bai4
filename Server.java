@@ -43,4 +43,8 @@ public class Server {
         return res.toString();
     }
 }
+<<<<<<< HEAD
 /* Chinh sua tren server may client */
+=======
+/* Chinh sua tren server github */, 
+>>>>>>> ff430fa9a1ad21dcb5fee95445d68bb29e046542
