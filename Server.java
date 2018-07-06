@@ -46,5 +46,6 @@ public class Server {
 <<<<<<< HEAD
 /* Chinh sua tren server may client */
 =======
-/* Chinh sua tren server github */, 
+/* Chinh sua tren server github */,
+        /*Chinh sua hopp nhat giua server va client*/
 >>>>>>> ff430fa9a1ad21dcb5fee95445d68bb29e046542
